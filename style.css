@@ -25,6 +25,7 @@ body {
   max-width: 35rem;
   background-color: white;
   padding: 2rem;
+  margin: 2rem;
   border: 0.15rem solid currentColor;
   border-radius: 2rem;
   font-size: 1.5rem;
